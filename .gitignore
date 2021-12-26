@@ -33,6 +33,9 @@ target/
 *.pdf
 *.xmind
 *.txt
+*.jpg
+*.png
+
 
 #system ignore
 .DS_Store
