@@ -29,6 +29,11 @@ target/
 *.patch
 *.tmp
 
+*.md
+*.pdf
+*.xmind
+*.txt
+
 #system ignore
 .DS_Store
 Thumbs.db
