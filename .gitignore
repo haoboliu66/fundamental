@@ -1,5 +1,7 @@
 *.class
 
+*.obsidian
+
 #package file
 *.war
 *.ear
